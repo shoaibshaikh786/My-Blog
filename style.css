@@ -1,0 +1,34 @@
+/* id */
+#mail{
+    font-size: 15px;
+    border: 3px solid #f6e634;
+}
+/* classes */
+.para{
+    font-size: 19px;
+    font-family: serif;
+    line-height:1.5;
+    color: #000000;
+}
+.title{
+    text-align: center;
+    font-family: serif;
+    color: #15f5dff7;
+}
+.nav{
+    font-size: 20px;
+    list-style: none;
+    border: 5px solid #77ff79;
+}
+/* cobmining selectors */
+h1,h2{
+    font-style: italic;
+
+}
+/* descendent slector*/
+section p b{
+    font-style: italic;
+}
+body{
+    background-color: #ff00aa;
+}
